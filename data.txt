@@ -1,0 +1,18 @@
+Test file1 to check import.
+Test file2 to check import.
+Hello WOrld. Welcome to my file system.
+iF you want to have your own virtual hard drive then first delete the files named as 'jsonParser.txt','data.txt','fatTable.txt'. This will give u access to create ur own vhd.
+this vhd uses the following commands : cd,ls,mkdir,rmdir,import,quit.
+In the 'jsonParser.txt' file json shows the parsed version with keys having no value,dictionary value, integer value as per requiremnt.
+by default vhd directory is set to 'root'.
+'data.txt' stores the imported files.
+Test file1 to check import.
+Test file2 to check import.
+Hello WOrld. Welcome to my file system.
+iF you want to have your own virtual hard drive then first delete the files named as 'jsonParser.txt','data.txt','fatTable.txt'. This will give u access to create ur own vhd.
+this vhd uses the following commands : cd,ls,mkdir,rmdir,import,quit.
+In the 'jsonParser.txt' file json shows the parsed version with keys having no value,dictionary value, integer value as per requiremnt.
+by default vhd directory is set to 'root'.
+'data.txt' stores the imported files.
+Test file1 to check import.
+Test file2 to check import.
